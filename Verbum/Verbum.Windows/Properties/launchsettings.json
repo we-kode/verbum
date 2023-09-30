@@ -1,0 +1,10 @@
+{
+  "profiles": {
+	"Verbum.Windows (Package)": {
+	  "commandName": "MsixPackage"
+	},
+	"Verbum.Windows (Unpackaged)": {
+	  "commandName": "Project"
+	}
+  }
+}
